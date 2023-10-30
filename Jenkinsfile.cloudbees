@@ -7,5 +7,4 @@ library changelog: false, identifier: 'pipeline-libraries@CBCE-8356',
 
 buildDeployGoModule {
     moduleName     = 'demo-go-service'
-    skipJFrogDeploy = 'true'
 }
