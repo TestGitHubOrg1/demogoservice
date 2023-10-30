@@ -1,4 +1,4 @@
-library changelog: false, identifier: 'pipeline-libraries@CBCE-8356',
+library changelog: false, identifier: 'pipeline-libraries@main',
     retriever: modernSCM([
       $class: 'GitSCMSource',
       credentialsId: 'compliance-gh-app-ro',
