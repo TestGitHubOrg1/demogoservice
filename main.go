@@ -10,6 +10,8 @@ type Payload struct {
 	Message string `json:"message"`
 }
 
+const password = "super_secret"
+
 func hello(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	name := p.ByName("name")
 	payload := Payload{
