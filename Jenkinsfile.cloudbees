@@ -8,3 +8,4 @@ library changelog: false, identifier: 'pipeline-libraries@main',
 buildDeployGoModule {
     moduleName     = 'demo-go-service'
 }
+
