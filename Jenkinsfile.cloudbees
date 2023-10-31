@@ -9,3 +9,4 @@ buildDeployGoModule {
     moduleName     = 'demo-go-service'
 }
 
+
