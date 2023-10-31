@@ -1,3 +1,3 @@
 demo-go-service
 
-tagging: v0.0.3 
+tagging: v0.0.4
